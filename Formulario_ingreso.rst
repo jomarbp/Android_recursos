@@ -160,3 +160,10 @@ Linea::
    :scale: 10
    :alt: JoeAI
 
+**2. Crearse en su servidor local MYSQL la siguiente tabla "cliente" para la base de datos "bdejemplo"**
+
+.. image:: tbcliente.png
+   :height: 40
+   :width: 90
+   :scale: 10
+   :alt: JoeAI
