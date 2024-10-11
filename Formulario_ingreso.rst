@@ -146,70 +146,17 @@ Linea::
   
   </androidx.constraintlayout.widget.ConstraintLayout>
 
-**2. En el archivo LoginPage.dart; actualizar el código... que quede así**
+**2. En el archivo api.php; actualizar el código... que quede así**
 
-.. image:: img/loginPage_1.png
+.. image:: api.php1.png
    :height: 40
    :width: 90
    :scale: 10
    :alt: JoeAI
 
-.. image:: img/loginPage_2.png
+.. image:: api.php2.png
    :height: 40
    :width: 90
    :scale: 10
    :alt: JoeAI
 
-.. image:: img/loginPage_3.png
-   :height: 45
-   :width: 90
-   :scale: 10
-   :alt: JoeAI
-
-.. image:: img/loginPage_4.png
-   :height: 45
-   :width: 90
-   :scale: 10
-   :alt: JoeAI
-
-.. image:: img/loginPage_5.png
-   :height: 45
-   :width: 90
-   :scale: 10
-   :alt: JoeAI
-
-3. Crear el archivo **Dashboard.dart**
-
-Instalar desde el "command Prompt", el siguiente comando:
-
-Linea::
-
-  flutter pub add shared_preferences
-
-.. image:: img/Dashboard1.png
-   :height: 40
-   :width: 90
-   :scale: 10
-   :alt: JoeAI
-
-.. image:: img/Dashboard2.png
-   :height: 40
-   :width: 90
-   :scale: 10
-   :alt: JoeAI
-
-.. image:: img/Dashboard3.png
-   :height: 45
-   :width: 90
-   :scale: 10
-   :alt: JoeAI
-
-3. Actualizar el archivo **main.dart**
-
-.. image:: img/Main.dart_actualizado.png
-   :height: 45
-   :width: 90
-   :scale: 10
-   :alt: JoeAI
-
-**Al ejecutar el archivo main.dart, deberá primero iniciar el loginPage.dart, ingresar DATOS REALES DE LA TABLA usuarios.... Al ingresar las credenciales correctas, el app les dará acceso al Dashboard.dart**
